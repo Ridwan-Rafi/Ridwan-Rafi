@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="height:268px; width:100%; background-color:green; background-image:url('res/HI.png'); background-attachment: scroll;
+background-repeat:no-repeat;
+background-size: contain;">
+</br></br></br></br></br></br></br></br></br>
+<center>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRidwan-Rafi&countColor=%23263759&labelStyle=upper">
+<img src="https://badges.pufler.dev/repos/Ridwan-Rafi">
+</center>
+</div>
