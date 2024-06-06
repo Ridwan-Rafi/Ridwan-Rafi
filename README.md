@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="height:268px; width:100%; background-color:green; background-image:url('./res/HI.png'); background-attachment: scroll;
+<div style="height:268px; width:100%; background-color:green; background-image:url('https://github.com/Ridwan-Rafi/Ridwan-Rafi/blob/main/res/HI.png?raw=true'); background-attachment: scroll;
 background-repeat:no-repeat;
 background-size: contain;">
 </br></br></br></br></br></br></br></br></br>
